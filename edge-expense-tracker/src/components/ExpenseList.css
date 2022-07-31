@@ -1,0 +1,12 @@
+.listOfItems{
+    padding: auto;
+    justify-content:space-around;
+    color: black;
+    background-color: rgba(13, 205, 93, 0.841);
+    margin-left: 10%;
+    margin-right: 10%;
+    align-content: center;
+    position: relative;
+    overflow: hidden;
+    
+}

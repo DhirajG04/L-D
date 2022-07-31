@@ -1,0 +1,17 @@
+.items{
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#deleteButton{
+    height: 40px;
+    width:80px;
+}

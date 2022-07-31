@@ -1,0 +1,90 @@
+#btn{
+    border: 20px;
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(107, 237, 64);
+    padding: 20px;
+    margin-top: 30px;
+    position: relative;
+    font-size: 20px;
+    
+
+}
+
+#expenseName{
+    border: 20px;
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(37, 211, 191);
+    padding: 20px;
+    margin-top: 30px;
+    font-size: 25px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#expenseAmount{
+    border: 20px;
+    border-radius: 5px;
+    background-color: rgb(37, 211, 191);
+    padding: 20px;
+    margin-top: 30px;
+    font-size: 25px;
+    width: 200%;
+    
+    position: relative;
+    margin-left: 10px;
+    margin-right: auto;
+    
+}
+
+
+#expenseDate{
+    border: 20px;
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(37, 211, 191);
+    padding: 20px;
+    margin-top: 30px;
+    font-size: 25px;
+    position: relative;
+    margin-left: 10px;
+    margin-right: auto;
+}
+
+
+#form{
+    
+    text-align: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type=text] {
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+input[type=number] {
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+input[type=date] {
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    margin-left: 10px;
+}
